@@ -1,0 +1,64 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "title": "Cessna Skyhawk 172",
+      "image": "Cessna172"
+    },
+    {
+      "id": 2,
+      "title": "Cessna Skyhawk 172S",
+      "image": "Cessna172S"
+    },
+    {
+      "id": 3,
+      "title": "Cirrus SR22T",
+      "image": "CirrusSR22T"
+    },
+    {
+      "id": 4,
+      "title": "Cirrus SR22",
+      "image": "CirrusSR22"
+    },
+    {
+      "id": 5,
+      "title": "Piper PA-28-181 Archer III",
+      "image": "PiperPA-28-181ArcherIII"
+    },
+    {
+      "id": 6,
+      "title": "Diamond DA40",
+      "image": "DiamondDA40"
+    },
+    {
+      "id": 7,
+      "title": "Diamond DA42",
+      "image": "DiamondDA42"
+    },
+    {
+      "id": 8,
+      "title": "Tecnam P2008",
+      "image": "TecnamP2008"
+    },
+    {
+      "id": 9,
+      "title": "Cirrus SR20",
+      "image": "CirrusSR20"
+    },
+    {
+      "id": 10,
+      "title": "Flight Design CT",
+      "image": "FlightDesignCT"
+    },
+    {
+      "id": 11,
+      "title": "Tecnam ASTM LSA",
+      "image": "TecnamASTMLSA"
+    },
+    {
+      "id": 12,
+      "title": "Cirrus SF50 Vision Jet",
+      "image": "CirrusSF50VisionJet"
+    }
+  ]
+}
