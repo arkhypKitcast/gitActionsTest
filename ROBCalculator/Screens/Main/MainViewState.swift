@@ -19,6 +19,7 @@ extension MainViewState: Equatable {
     switch (lhs, rhs) {
     case (.launching, .launching):
       return true
+        
     case (.onboarding, .onboarding):
       return true
         
