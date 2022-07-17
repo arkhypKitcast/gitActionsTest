@@ -28,7 +28,6 @@ extension MainViewState: Equatable {
     case (.launching, _),
          (.onboarding, _),
          (.signedIn, _):
-        
       return false
     }
   }
